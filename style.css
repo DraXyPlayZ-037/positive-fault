@@ -1,0 +1,21 @@
+#headert {
+    color: blue;
+}
+
+#mycanvas {
+    background-color: rgb(255, 255, 255);
+    height: 9999999999999999999999999999999999999999999900000000000000000000000000000000000000000000000px;
+    width: 18888888888888888888888888888888888888888888888888888888888888888888888888888888888888888800px
+}
+
+body {
+    background-color: black;
+}
+
+#clear {
+    background-color: red;
+    color: white;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+}
